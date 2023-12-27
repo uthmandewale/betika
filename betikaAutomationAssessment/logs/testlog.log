@@ -1,0 +1,460 @@
+01:10:02.069 [main] INFO  - Logging automation information
+01:10:02.072 [main] INFO  -  BETIKA web application under test
+01:10:02.073 [main] INFO  - https://www.betika.com/en-ke/
+01:10:02.105 [TestNG-test=Test-2] INFO  - firefox is the browser i am testing with now
+01:10:02.105 [TestNG-test=Test-3] INFO  - firefox is the browser i am testing with now
+01:10:02.105 [TestNG-test=Test-4] INFO  - firefox is the browser i am testing with now
+01:10:02.108 [TestNG-test=Test-1] INFO  - firefox is the browser i am testing with now
+01:10:02.140 [TestNG-test=Test-1] INFO  - Running test with firefox browser headless
+01:11:47.379 [main] INFO  - Logging automation information
+01:11:47.381 [main] INFO  -  BETIKA web application under test
+01:11:47.381 [main] INFO  - https://www.betika.com/en-ke/
+01:11:47.408 [TestNG-test=Test-4] INFO  - firefox is the browser i am testing with now
+01:11:47.408 [TestNG-test=Test-1] INFO  - firefox is the browser i am testing with now
+01:11:47.409 [TestNG-test=Test-3] INFO  - firefox is the browser i am testing with now
+01:11:47.410 [TestNG-test=Test-2] INFO  - firefox is the browser i am testing with now
+01:11:47.413 [TestNG-test=Test-1] INFO  - Running test with firefox browser
+01:18:08.119 [main] INFO  - Logging automation information
+01:18:08.122 [main] INFO  -  BETIKA web application under test
+01:18:08.122 [main] INFO  - https://www.betika.com/en-ke/
+01:18:08.157 [TestNG-test=Test-3] INFO  - chrome is the browser i am testing with now
+01:18:08.157 [TestNG-test=Test-4] INFO  - chrome is the browser i am testing with now
+01:18:08.157 [TestNG-test=Test-2] INFO  - chrome is the browser i am testing with now
+01:18:08.163 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+01:18:08.166 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+01:18:24.517 [TestNG-test=Test-1] INFO  -  BETIKA web application under test
+01:20:06.986 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+01:20:06.989 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+01:20:25.780 [TestNG-test=Test-1] INFO  -  BETIKA web application under test
+01:22:10.455 [main] INFO  - Logging automation information
+01:22:10.458 [main] INFO  -  BETIKA web application under test
+01:22:10.458 [main] INFO  - https://www.betika.com/en-ke/
+01:22:10.495 [TestNG-test=Test-2] INFO  - chrome is the browser i am testing with now
+01:22:10.495 [TestNG-test=Test-4] INFO  - chrome is the browser i am testing with now
+01:22:10.495 [TestNG-test=Test-3] INFO  - chrome is the browser i am testing with now
+01:22:10.497 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+01:22:10.500 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+01:22:23.785 [TestNG-test=Test-1] INFO  -  BETIKA web application under test
+01:24:05.416 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+01:24:05.419 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+01:24:13.614 [TestNG-test=Test-1] INFO  -  BETIKA web application under test
+01:26:28.691 [main] INFO  - Logging automation information
+01:26:28.694 [main] INFO  -  BETIKA web application under test
+01:26:28.694 [main] INFO  - https://www.betika.com/en-ke/
+01:26:28.732 [TestNG-test=Test-2] INFO  - chrome is the browser i am testing with now
+01:26:28.732 [TestNG-test=Test-3] INFO  - chrome is the browser i am testing with now
+01:26:28.732 [TestNG-test=Test-4] INFO  - chrome is the browser i am testing with now
+01:26:28.734 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+01:26:28.736 [TestNG-test=Test-3] INFO  - Running test with Chrome browser
+01:26:28.736 [TestNG-test=Test-4] INFO  - Running test with Chrome browser
+01:26:28.736 [TestNG-test=Test-2] INFO  - Running test with Chrome browser
+01:26:28.736 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+01:26:49.784 [TestNG-test=Test-2] INFO  -  BETIKA web application under test
+01:26:52.199 [TestNG-test=Test-1] INFO  -  BETIKA web application under test
+01:26:56.185 [TestNG-test=Test-4] INFO  -  BETIKA web application under test
+01:26:58.323 [TestNG-test=Test-3] INFO  -  BETIKA web application under test
+01:26:59.946 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+01:26:59.946 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+01:27:17.028 [TestNG-test=Test-1] INFO  -  BETIKA web application under test
+01:31:37.470 [main] INFO  - Logging automation information
+01:31:37.473 [main] INFO  -  BETIKA web application under test
+01:31:37.473 [main] INFO  - https://www.betika.com/en-ke/
+01:31:37.520 [TestNG-test=Test-2] INFO  - chrome is the browser i am testing with now
+01:31:37.521 [TestNG-test=Test-3] INFO  - chrome is the browser i am testing with now
+01:31:37.521 [TestNG-test=Test-4] INFO  - chrome is the browser i am testing with now
+01:31:37.524 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+01:31:37.529 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+01:31:55.242 [TestNG-test=Test-1] INFO  -  BETIKA web application under test
+01:33:39.855 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+01:33:39.860 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+01:33:54.088 [TestNG-test=Test-1] INFO  -  BETIKA web application under test
+09:07:57.136 [main] INFO  - Logging automation information
+09:07:57.143 [main] INFO  -  BETIKA web application under test
+09:07:57.143 [main] INFO  - https://www.betika.com/en-ke/
+09:07:57.518 [TestNG-test=Test-2] INFO  - chrome is the browser i am testing with now
+09:07:57.519 [TestNG-test=Test-4] INFO  - chrome is the browser i am testing with now
+09:07:57.519 [TestNG-test=Test-3] INFO  - chrome is the browser i am testing with now
+09:07:57.519 [TestNG-test=Test-2] INFO  - Running test with Chrome browser
+09:07:57.519 [TestNG-test=Test-4] INFO  - Running test with Chrome browser
+09:07:57.519 [TestNG-test=Test-3] INFO  - Running test with Chrome browser
+09:07:57.521 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+09:07:57.522 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+09:10:38.579 [TestNG-test=Test-4] INFO  -  BETIKA web application under test
+09:22:34.432 [main] INFO  - Logging automation information
+09:22:34.439 [main] INFO  -  BETIKA web application under test
+09:22:34.439 [main] INFO  - https://www.betika.com/en-ke/
+09:22:35.180 [TestNG-test=Test-3] INFO  - chrome is the browser i am testing with now
+09:22:35.180 [TestNG-test=Test-3] INFO  - Running test with Chrome browser
+09:22:35.180 [TestNG-test=Test-2] INFO  - chrome is the browser i am testing with now
+09:22:35.181 [TestNG-test=Test-4] INFO  - chrome is the browser i am testing with now
+09:22:35.181 [TestNG-test=Test-4] INFO  - Running test with Chrome browser
+09:22:35.181 [TestNG-test=Test-2] INFO  - Running test with Chrome browser
+09:22:35.181 [TestNG-test=Test-1] INFO  - chrome is the browser i am testing with now
+09:22:35.181 [TestNG-test=Test-1] INFO  - Running test with Chrome browser
+09:24:14.913 [TestNG-test=Test-1] INFO  -  BETIKA web application under test
+09:24:32.364 [TestNG-test=Test-4] INFO  -  BETIKA web application under test
+09:24:42.641 [TestNG-test=Test-3] INFO  -  BETIKA web application under test
+09:24:49.884 [TestNG-test=Test-2] INFO  -  BETIKA web application under test
+09:25:17.633 [TestNG-test=Test-3] INFO  - chrome is the browser i am testing with now
+09:25:17.635 [TestNG-test=Test-3] INFO  - Running test with Chrome browser
+09:35:57.519 [main] INFO  - Logging automation information
+09:35:57.757 [main] INFO  -  BETIKA web application under test
+09:35:57.757 [main] INFO  - https://www.betika.com/en-ke/
+09:35:59.064 [main] INFO  - chrome is the browser i am testing with now
+09:35:59.065 [main] INFO  - Running test with Chrome browser
+09:40:36.736 [main] INFO  - chrome is the browser i am testing with now
+09:40:36.779 [main] INFO  - Running test with Chrome browser
+09:44:22.682 [main] INFO  -  BETIKA web application under test
+09:44:54.111 [main] INFO  - chrome is the browser i am testing with now
+09:44:54.121 [main] INFO  - Running test with Chrome browser
+09:46:53.572 [main] INFO  -  BETIKA web application under test
+10:31:35.391 [main] INFO  - Logging automation information
+10:31:35.394 [main] INFO  -  BETIKA web application under test
+10:31:35.394 [main] INFO  - https://www.betika.com/en-ke/
+10:31:35.470 [main] INFO  - chrome is the browser i am testing with now
+10:31:35.479 [main] INFO  - Running test with Chrome browser
+10:32:06.765 [main] INFO  -  BETIKA web application under test
+10:33:52.892 [main] INFO  - chrome is the browser i am testing with now
+10:33:52.915 [main] INFO  - chrome is the browser i am testing with now
+10:33:52.952 [main] INFO  - chrome is the browser i am testing with now
+10:41:03.056 [main] INFO  - Logging automation information
+10:41:03.062 [main] INFO  -  BETIKA web application under test
+10:41:03.062 [main] INFO  - https://www.betika.com/en-ke/
+10:41:03.092 [main] INFO  - chrome is the browser i am testing with now
+10:41:03.115 [main] INFO  - Running test with Chrome browser
+10:41:22.446 [main] INFO  -  BETIKA web application under test
+10:43:06.030 [main] INFO  - Logging automation information
+10:43:06.061 [main] INFO  -  BETIKA web application under test
+10:43:06.062 [main] INFO  - https://www.betika.com/en-ke/
+10:43:06.064 [main] INFO  - chrome is the browser i am testing with now
+10:43:06.064 [main] INFO  - Running test with Chrome browser
+10:46:10.616 [main] INFO  - Logging automation information
+10:46:10.688 [main] INFO  -  BETIKA web application under test
+10:46:10.688 [main] INFO  - https://www.betika.com/en-ke/
+10:46:10.692 [main] INFO  - chrome is the browser i am testing with now
+10:46:10.692 [main] INFO  - Running test with Chrome browser
+10:46:37.176 [main] INFO  -  BETIKA web application under test
+10:50:04.631 [main] INFO  - Logging automation information
+10:50:04.632 [main] INFO  -  BETIKA web application under test
+10:50:04.632 [main] INFO  - https://www.betika.com/en-ke/
+10:50:04.633 [main] INFO  - chrome is the browser i am testing with now
+10:50:04.634 [main] INFO  - Running test with Chrome browser
+10:50:22.589 [main] INFO  -  BETIKA web application under test
+10:52:47.527 [main] INFO  - Logging automation information
+10:52:47.529 [main] INFO  -  BETIKA web application under test
+10:52:47.530 [main] INFO  - https://www.betika.com/en-ke/
+10:52:47.552 [main] INFO  - chrome is the browser i am testing with now
+10:52:47.556 [main] INFO  - Running test with Chrome browser
+10:53:15.951 [main] INFO  -  BETIKA web application under test
+10:57:36.523 [main] INFO  - Logging automation information
+10:57:36.543 [main] INFO  -  BETIKA web application under test
+10:57:36.543 [main] INFO  - https://www.betika.com/en-ke/
+10:57:36.771 [main] INFO  - chrome is the browser i am testing with now
+10:57:36.791 [main] INFO  - Running test with Chrome browser
+11:01:23.164 [main] INFO  - Logging automation information
+11:01:23.196 [main] INFO  -  BETIKA web application under test
+11:01:23.196 [main] INFO  - https://www.betika.com/en-ke/
+11:01:23.210 [main] INFO  - chrome is the browser i am testing with now
+11:01:23.212 [main] INFO  - Running test with Chrome browser
+11:01:44.917 [main] INFO  -  BETIKA web application under test
+11:02:13.280 [main] INFO  - Logging automation information
+11:02:13.285 [main] INFO  -  BETIKA web application under test
+11:02:13.285 [main] INFO  - https://www.betika.com/en-ke/
+11:02:13.293 [main] INFO  - chrome is the browser i am testing with now
+11:02:13.293 [main] INFO  - Running test with Chrome browser
+11:04:55.385 [main] INFO  -  BETIKA web application under test
+11:07:12.037 [main] INFO  - Logging automation information
+11:07:12.043 [main] INFO  -  BETIKA web application under test
+11:07:12.043 [main] INFO  - https://www.betika.com/en-ke/
+11:07:12.049 [main] INFO  - chrome is the browser i am testing with now
+11:07:12.061 [main] INFO  - Running test with Chrome browser
+11:07:51.270 [main] INFO  -  BETIKA web application under test
+11:16:43.362 [main] INFO  - Logging automation information
+11:16:43.393 [main] INFO  -  BETIKA web application under test
+11:16:43.393 [main] INFO  - https://www.betika.com/en-ke/
+11:16:43.582 [main] INFO  - chrome is the browser i am testing with now
+11:16:43.619 [main] INFO  - Running test with Chrome browser
+11:17:47.723 [main] INFO  -  BETIKA web application under test
+11:19:33.502 [main] INFO  - Logging automation information
+11:19:33.505 [main] INFO  -  BETIKA web application under test
+11:19:33.505 [main] INFO  - https://www.betika.com/en-ke/
+11:19:33.511 [main] INFO  - chrome is the browser i am testing with now
+11:19:33.512 [main] INFO  - Running test with Chrome browser
+11:19:55.336 [main] INFO  -  BETIKA web application under test
+11:20:12.312 [main] INFO  - Logging automation information
+11:20:12.323 [main] INFO  -  BETIKA web application under test
+11:20:12.323 [main] INFO  - https://www.betika.com/en-ke/
+11:20:12.326 [main] INFO  - chrome is the browser i am testing with now
+11:20:12.331 [main] INFO  - Running test with Chrome browser
+11:20:40.003 [main] INFO  -  BETIKA web application under test
+11:22:27.494 [main] INFO  - Logging automation information
+11:22:27.497 [main] INFO  -  BETIKA web application under test
+11:22:27.497 [main] INFO  - https://www.betika.com/en-ke/
+11:22:27.504 [main] INFO  - chrome is the browser i am testing with now
+11:22:27.504 [main] INFO  - Running test with Chrome browser
+11:22:49.526 [main] INFO  -  BETIKA web application under test
+11:27:00.116 [main] INFO  - Logging automation information
+11:27:00.121 [main] INFO  -  BETIKA web application under test
+11:27:00.121 [main] INFO  - https://www.betika.com/en-ke/
+11:27:00.343 [main] INFO  - chrome is the browser i am testing with now
+11:27:00.366 [main] INFO  - Running test with Chrome browser
+11:40:51.088 [main] INFO  - Logging automation information
+11:40:51.093 [main] INFO  -  BETIKA web application under test
+11:40:51.093 [main] INFO  - https://www.betika.com/en-ke/
+11:40:51.165 [main] INFO  - chrome is the browser i am testing with now
+11:40:51.284 [main] INFO  - Running test with Chrome browser
+11:41:49.707 [main] INFO  -  BETIKA web application under test
+11:50:07.160 [main] INFO  - Logging automation information
+11:50:07.173 [main] INFO  -  BETIKA web application under test
+11:50:07.174 [main] INFO  - https://www.betika.com/en-ke/
+11:50:07.375 [main] INFO  - chrome is the browser i am testing with now
+11:50:07.392 [main] INFO  - Running test with Chrome browser
+12:02:15.990 [main] INFO  - Logging automation information
+12:02:15.993 [main] INFO  -  BETIKA web application under test
+12:02:15.993 [main] INFO  - https://www.betika.com/en-ke/
+12:02:16.012 [main] INFO  - chrome is the browser i am testing with now
+12:02:16.018 [main] INFO  - Running test with Chrome browser
+12:04:21.534 [main] INFO  -  BETIKA web application under test
+12:11:47.138 [main] INFO  - Logging automation information
+12:11:47.140 [main] INFO  -  BETIKA web application under test
+12:11:47.140 [main] INFO  - https://www.betika.com/en-ke/
+12:11:47.156 [main] INFO  - chrome is the browser i am testing with now
+12:11:47.162 [main] INFO  - Running test with Chrome browser
+12:12:05.776 [main] INFO  -  BETIKA web application under test
+12:19:19.837 [main] INFO  - Logging automation information
+12:19:19.841 [main] INFO  -  BETIKA web application under test
+12:19:19.841 [main] INFO  - https://www.betika.com/en-ke/
+12:19:19.863 [main] INFO  - chrome is the browser i am testing with now
+12:19:19.870 [main] INFO  - Running test with Chrome browser
+12:19:43.403 [main] INFO  -  BETIKA web application under test
+13:17:54.240 [main] INFO  - Logging automation information
+13:17:54.243 [main] INFO  -  BETIKA web application under test
+13:17:54.243 [main] INFO  - https://www.betika.com/en-ke/
+13:20:26.589 [main] INFO  - Logging automation information
+13:20:26.592 [main] INFO  -  BETIKA web application under test
+13:20:26.592 [main] INFO  - https://www.betika.com/en-ke/
+13:20:26.614 [main] INFO  - chrome is the browser i am testing with now
+13:20:26.619 [main] INFO  - Running test with Chrome browser
+13:22:02.313 [main] INFO  -  BETIKA web application under test
+13:26:15.101 [main] INFO  - Logging automation information
+13:26:15.104 [main] INFO  -  BETIKA web application under test
+13:26:15.104 [main] INFO  - https://www.betika.com/en-ke/
+13:26:55.299 [main] INFO  - Logging automation information
+13:26:55.301 [main] INFO  -  BETIKA web application under test
+13:26:55.302 [main] INFO  - https://www.betika.com/en-ke/
+13:26:55.322 [main] INFO  - chrome is the browser i am testing with now
+13:26:55.329 [main] INFO  - Running test with Chrome browser
+13:28:31.015 [main] INFO  -  BETIKA web application under test
+19:21:22.191 [main] INFO  - Logging automation information
+19:21:22.195 [main] INFO  -  BETIKA web application under test
+19:21:22.195 [main] INFO  - https://www.betika.com/en-ke/
+19:22:36.034 [main] INFO  - Logging automation information
+19:22:36.038 [main] INFO  -  BETIKA web application under test
+19:22:36.038 [main] INFO  - https://www.betika.com/en-ke/
+19:22:36.066 [main] INFO  - chrome is the browser i am testing with now
+19:22:36.071 [main] INFO  - Running test with Chrome browser headless
+19:22:36.107 [main] INFO  - Running test with Chrome browser
+19:24:21.346 [main] INFO  - Logging automation information
+19:24:21.349 [main] INFO  -  BETIKA web application under test
+19:24:21.349 [main] INFO  - https://www.betika.com/en-ke/
+19:24:21.390 [main] INFO  - chrome is the browser i am testing with now
+19:24:21.408 [main] INFO  - Running test with Chrome browser headless
+19:24:21.487 [main] INFO  - Running test with Chrome browser
+19:25:55.123 [main] INFO  - Logging automation information
+19:25:55.128 [main] INFO  -  BETIKA web application under test
+19:25:55.128 [main] INFO  - https://www.betika.com/en-ke/
+19:25:55.162 [main] INFO  - chrome is the browser i am testing with now
+19:25:55.169 [main] INFO  - Running test with Chrome browser headless
+19:25:55.182 [main] INFO  - Running test with Chrome browser
+19:26:34.184 [main] INFO  - Logging automation information
+19:26:34.187 [main] INFO  -  BETIKA web application under test
+19:26:34.187 [main] INFO  - https://www.betika.com/en-ke/
+19:26:34.243 [main] INFO  - firefox is the browser i am testing with now
+19:26:34.256 [main] INFO  - Running test with firefox browser headless
+19:26:34.270 [main] INFO  - Running test with firefox browser
+19:35:46.350 [main] INFO  - Logging automation information
+19:35:46.353 [main] INFO  -  BETIKA web application under test
+19:35:46.353 [main] INFO  - https://www.betika.com/en-ke/
+19:35:46.387 [main] INFO  - firefox is the browser i am testing with now
+19:35:46.397 [main] INFO  - Running test with firefox browser headless
+19:35:46.742 [main] INFO  - Running test with firefox browser
+19:37:06.132 [main] INFO  - Logging automation information
+19:37:06.140 [main] INFO  -  BETIKA web application under test
+19:37:06.140 [main] INFO  - https://www.betika.com/en-ke/
+19:37:06.165 [main] INFO  - firefox is the browser i am testing with now
+19:37:06.175 [main] INFO  - Running test with firefox browser headless
+19:37:06.194 [main] INFO  - Running test with firefox browser
+19:40:56.156 [main] INFO  - Logging automation information
+19:40:56.160 [main] INFO  -  BETIKA web application under test
+19:40:56.160 [main] INFO  - https://www.betika.com/en-ke/
+19:40:56.191 [main] INFO  - chrome is the browser i am testing with now
+19:40:56.198 [main] INFO  - Running test with Chrome browser headless
+19:40:56.210 [main] INFO  - Running test with Chrome browser
+19:41:45.083 [main] INFO  - Logging automation information
+19:41:45.088 [main] INFO  -  BETIKA web application under test
+19:41:45.089 [main] INFO  - https://www.betika.com/en-ke/
+19:41:45.126 [main] INFO  - chrome is the browser i am testing with now
+19:41:45.132 [main] INFO  - Running test with Chrome browser headless
+19:41:45.275 [main] INFO  - Running test with Chrome browser
+19:43:26.708 [main] INFO  - Logging automation information
+19:43:26.712 [main] INFO  -  BETIKA web application under test
+19:43:26.712 [main] INFO  - https://www.betika.com/en-ke/
+19:43:26.746 [main] INFO  - chrome is the browser i am testing with now
+19:43:26.753 [main] INFO  - Running test with Chrome browser headless
+19:43:26.763 [main] INFO  - Running test with Chrome browser
+19:45:02.568 [main] INFO  - Logging automation information
+19:45:02.575 [main] INFO  -  BETIKA web application under test
+19:45:02.575 [main] INFO  - https://www.betika.com/en-ke/
+19:45:02.609 [main] INFO  - chrome is the browser i am testing with now
+19:45:02.622 [main] INFO  - Running test with Chrome browser headless
+19:45:02.657 [main] INFO  - Running test with Chrome browser
+19:45:36.924 [main] INFO  - Logging automation information
+19:45:36.928 [main] INFO  -  BETIKA web application under test
+19:45:36.928 [main] INFO  - https://www.betika.com/en-ke/
+19:45:36.955 [main] INFO  - chrome is the browser i am testing with now
+19:45:36.968 [main] INFO  - Running test with Chrome browser headless
+19:45:36.999 [main] INFO  - Running test with Chrome browser
+19:48:04.574 [main] INFO  - Logging automation information
+19:48:04.577 [main] INFO  -  BETIKA web application under test
+19:48:04.577 [main] INFO  - https://www.betika.com/en-ke/
+19:48:04.599 [main] INFO  - chrome is the browser i am testing with now
+19:48:04.603 [main] INFO  - Running test with Chrome browser headless
+19:48:04.620 [main] INFO  - Running test with Chrome browser
+19:51:29.353 [main] INFO  - Logging automation information
+19:51:29.356 [main] INFO  -  BETIKA web application under test
+19:51:29.356 [main] INFO  - https://www.betika.com/en-ke/
+19:51:29.401 [main] INFO  - chrome is the browser i am testing with now
+19:51:29.406 [main] INFO  - Running test with Chrome browser headless
+19:51:29.434 [main] INFO  - Running test with Chrome browser
+19:54:29.156 [main] INFO  - Logging automation information
+19:54:29.159 [main] INFO  -  BETIKA web application under test
+19:54:29.161 [main] INFO  - https://www.betika.com/en-ke/
+19:54:29.191 [main] INFO  - chrome is the browser i am testing with now
+19:54:29.196 [main] INFO  - Running test with Chrome browser headless
+19:54:29.211 [main] INFO  - Running test with Chrome browser
+19:56:56.463 [main] INFO  - Logging automation information
+19:56:56.466 [main] INFO  -  BETIKA web application under test
+19:56:56.466 [main] INFO  - https://www.betika.com/en-ke/
+19:56:56.487 [main] INFO  - chrome is the browser i am testing with now
+19:56:56.492 [main] INFO  - Running test with Chrome browser headless
+19:56:56.517 [main] INFO  - Running test with Chrome browser
+19:58:42.061 [main] INFO  - Logging automation information
+19:58:42.069 [main] INFO  -  BETIKA web application under test
+19:58:42.069 [main] INFO  - https://www.betika.com/en-ke/
+19:58:42.090 [main] INFO  - chrome is the browser i am testing with now
+19:58:42.095 [main] INFO  - Running test with Chrome browser headless
+20:02:44.755 [main] INFO  - Logging automation information
+20:02:44.760 [main] INFO  -  BETIKA web application under test
+20:02:44.760 [main] INFO  - https://www.betika.com/en-ke/
+20:02:44.790 [main] INFO  - chrome is the browser i am testing with now
+20:02:44.970 [main] INFO  - Running test with Chrome browser headless
+20:03:31.745 [main] INFO  -  BETIKA web application under test
+21:39:15.062 [main] INFO  - Logging automation information
+21:39:15.066 [main] INFO  -  BETIKA web application under test
+21:39:15.066 [main] INFO  - https://www.betika.com/en-ke/
+21:44:33.689 [main] INFO  - Logging automation information
+21:44:33.693 [main] INFO  -  BETIKA web application under test
+21:44:33.694 [main] INFO  - https://www.betika.com/en-ke/
+23:48:00.608 [main] INFO  - Logging automation information
+23:48:00.612 [main] INFO  -  BETIKA web application under test
+23:48:00.612 [main] INFO  - https://www.betika.com/en-ke/
+23:51:39.976 [main] INFO  - Logging automation information
+23:51:39.978 [main] INFO  -  BETIKA web application under test
+23:51:39.978 [main] INFO  - https://www.betika.com/en-ke/
+23:53:06.530 [main] INFO  - Logging automation information
+23:53:06.532 [main] INFO  -  BETIKA web application under test
+23:53:06.533 [main] INFO  - https://www.betika.com/en-ke/
+23:55:55.951 [main] INFO  - Logging automation information
+23:55:55.954 [main] INFO  -  BETIKA web application under test
+23:55:55.955 [main] INFO  - https://www.betika.com/en-ke/
+23:55:55.968 [main] INFO  - chrome is the browser i am testing with now
+23:55:55.973 [main] INFO  - Running test with Chrome browser headless
+23:56:16.528 [main] INFO  -  BETIKA web application under test
+00:22:28.856 [main] INFO  - Logging automation information
+00:22:28.859 [main] INFO  -  BETIKA web application under test
+00:22:28.859 [main] INFO  - https://www.betika.com/en-ke/
+00:23:33.847 [main] INFO  - Logging automation information
+00:23:33.850 [main] INFO  -  BETIKA web application under test
+00:23:33.850 [main] INFO  - https://www.betika.com/en-ke/
+00:25:12.176 [main] INFO  - Logging automation information
+00:25:12.183 [main] INFO  -  BETIKA web application under test
+00:25:12.183 [main] INFO  - https://www.betika.com/en-ke/
+00:25:12.230 [main] INFO  - chrome is the browser i am testing with now
+00:25:12.236 [main] INFO  - Running test with Chrome browser headless
+00:25:31.324 [main] INFO  -  BETIKA web application under test
+00:33:49.342 [main] INFO  - Logging automation information
+00:33:49.346 [main] INFO  -  BETIKA web application under test
+00:33:49.346 [main] INFO  - https://www.betika.com/en-ke/
+00:33:49.360 [main] INFO  - chrome is the browser i am testing with now
+00:33:49.369 [main] INFO  - Running test with Chrome browser headless
+00:34:06.266 [main] INFO  -  BETIKA web application under test
+00:35:55.691 [main] INFO  - Logging automation information
+00:35:55.693 [main] INFO  -  BETIKA web application under test
+00:35:55.693 [main] INFO  - https://www.betika.com/en-ke/
+00:35:55.709 [main] INFO  - chrome is the browser i am testing with now
+00:35:55.717 [main] INFO  - Running test with Chrome browser headless
+00:35:56.690 [main] INFO  - Running test with Chrome browser
+00:36:16.230 [main] INFO  -  BETIKA web application under test
+00:43:32.065 [main] INFO  - Logging automation information
+00:43:32.068 [main] INFO  -  BETIKA web application under test
+00:43:32.068 [main] INFO  - https://www.betika.com/en-ke/
+00:43:32.081 [main] INFO  - chrome is the browser i am testing with now
+00:43:32.088 [main] INFO  - Running test with Chrome browser headless
+00:43:33.162 [main] INFO  - Running test with Chrome browser
+00:43:53.563 [main] INFO  -  BETIKA web application under test
+00:46:09.767 [main] INFO  - Logging automation information
+00:46:09.770 [main] INFO  -  BETIKA web application under test
+00:46:09.770 [main] INFO  - https://www.betika.com/en-ke/
+00:46:09.784 [main] INFO  - chrome is the browser i am testing with now
+00:46:09.788 [main] INFO  - Running test with Chrome browser headless
+00:46:10.354 [main] INFO  - Running test with Chrome browser
+00:46:27.161 [main] INFO  -  BETIKA web application under test
+00:51:07.461 [main] INFO  - Logging automation information
+00:51:07.467 [main] INFO  -  BETIKA web application under test
+00:51:07.467 [main] INFO  - https://www.betika.com/en-ke/
+00:51:07.479 [main] INFO  - chrome is the browser i am testing with now
+00:51:07.486 [main] INFO  - Running test with Chrome browser headless
+00:51:08.042 [main] INFO  - Running test with Chrome browser
+00:51:28.788 [main] INFO  -  BETIKA web application under test
+00:52:05.798 [main] INFO  - Logging automation information
+00:52:05.801 [main] INFO  -  BETIKA web application under test
+00:52:05.801 [main] INFO  - https://www.betika.com/en-ke/
+00:52:05.812 [main] INFO  - chrome is the browser i am testing with now
+00:52:05.818 [main] INFO  - Running test with Chrome browser headless
+00:52:06.615 [main] INFO  - Running test with Chrome browser
+00:52:19.993 [main] INFO  -  BETIKA web application under test
+00:53:00.181 [main] INFO  - Logging automation information
+00:53:00.184 [main] INFO  -  BETIKA web application under test
+00:53:00.184 [main] INFO  - https://www.betika.com/en-ke/
+00:53:00.200 [main] INFO  - chrome is the browser i am testing with now
+00:53:00.207 [main] INFO  - Running test with Chrome browser headless
+00:53:00.869 [main] INFO  - Running test with Chrome browser
+00:54:11.334 [main] INFO  -  BETIKA web application under test
+00:57:51.100 [main] INFO  - Logging automation information
+00:57:51.103 [main] INFO  -  BETIKA web application under test
+00:57:51.103 [main] INFO  - https://www.betika.com/en-ke/
+00:57:51.114 [main] INFO  - chrome is the browser i am testing with now
+00:57:51.118 [main] INFO  - Running test with Chrome browser headless
+00:57:52.698 [main] INFO  - Running test with Chrome browser
+00:58:09.854 [main] INFO  -  BETIKA web application under test
+01:00:19.818 [main] INFO  - Logging automation information
+01:00:19.820 [main] INFO  -  BETIKA web application under test
+01:00:19.820 [main] INFO  - https://www.betika.com/en-ke/
+01:00:19.832 [main] INFO  - chrome is the browser i am testing with now
+01:00:19.836 [main] INFO  - Running test with Chrome browser headless
+01:00:20.413 [main] INFO  - Running test with Chrome browser
+01:00:44.968 [main] INFO  -  BETIKA web application under test
+01:01:53.656 [main] INFO  - Logging automation information
+01:01:53.704 [main] INFO  -  BETIKA web application under test
+01:01:53.704 [main] INFO  - https://www.betika.com/en-ke/
+01:01:53.716 [main] INFO  - chrome is the browser i am testing with now
+01:01:53.721 [main] INFO  - Running test with Chrome browser headless
+01:01:54.475 [main] INFO  - Running test with Chrome browser
+01:02:07.986 [main] INFO  -  BETIKA web application under test
+01:08:44.605 [main] INFO  - Logging automation information
+01:08:44.610 [main] INFO  -  BETIKA web application under test
+01:08:44.610 [main] INFO  - https://www.betika.com/en-ke/
+01:08:44.623 [main] INFO  - chrome is the browser i am testing with now
+01:08:44.629 [main] INFO  - Running test with Chrome browser headless
+01:08:45.183 [main] INFO  - Running test with Chrome browser
+01:09:05.251 [main] INFO  -  BETIKA web application under test

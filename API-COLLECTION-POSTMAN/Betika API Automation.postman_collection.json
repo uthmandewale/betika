@@ -1,0 +1,441 @@
+{
+	"info": {
+		"_postman_id": "2959cc67-bc83-46f0-9241-c0f355cee22f",
+		"name": "Betika API Automation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4451953"
+	},
+	"item": [
+		{
+			"name": "https://reqres.in/api/register",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"",
+							"const expectedSchema = {",
+							"    ",
+							"    \"definitions\": {",
+							"        \"Welcome7\": {",
+							"            \"type\": \"object\",",
+							"            \"additionalProperties\": false,",
+							"            \"properties\": {",
+							"                \"page\": {",
+							"                    \"type\": \"integer\"",
+							"                },",
+							"                \"per_page\": {",
+							"                    \"type\": \"integer\"",
+							"                },",
+							"                \"total\": {",
+							"                    \"type\": \"integer\"",
+							"                },",
+							"                \"total_pages\": {",
+							"                    \"type\": \"integer\"",
+							"                },",
+							"                \"data\": {",
+							"                    \"type\": \"array\",",
+							"                    \"items\": {",
+							"                        \"$ref\": \"#/definitions/Datum\"",
+							"                    }",
+							"                },",
+							"                \"support\": {",
+							"                    \"$ref\": \"#/definitions/Support\"",
+							"                }",
+							"            },",
+							"            \"required\": [",
+							"                \"data\",",
+							"                \"page\",",
+							"                \"per_page\",",
+							"                \"support\",",
+							"                \"total\",",
+							"                \"total_pages\"",
+							"            ],",
+							"            \"title\": \"Welcome7\"",
+							"        },",
+							"        \"Datum\": {",
+							"            \"type\": \"object\",",
+							"            \"additionalProperties\": false,",
+							"            \"properties\": {",
+							"                \"id\": {",
+							"                    \"type\": \"integer\"",
+							"                },",
+							"                \"name\": {",
+							"                    \"type\": \"string\"",
+							"                },",
+							"                \"year\": {",
+							"                    \"type\": \"integer\"",
+							"                },",
+							"                \"color\": {",
+							"                    \"type\": \"string\"",
+							"                },",
+							"                \"pantone_value\": {",
+							"                    \"type\": \"string\"",
+							"                }",
+							"            },",
+							"            \"required\": [",
+							"                \"color\",",
+							"                \"id\",",
+							"                \"name\",",
+							"                \"pantone_value\",",
+							"                \"year\"",
+							"            ],",
+							"            \"title\": \"Datum\"",
+							"        },",
+							"        \"Support\": {",
+							"            \"type\": \"object\",",
+							"            \"additionalProperties\": false,",
+							"            \"properties\": {",
+							"                \"url\": {",
+							"                    \"type\": \"string\",",
+							"                    \"format\": \"uri\",",
+							"                    \"qt-uri-protocols\": [",
+							"                        \"https\"",
+							"                    ]",
+							"                },",
+							"                \"text\": {",
+							"                    \"type\": \"string\"",
+							"                }",
+							"            },",
+							"            \"required\": [",
+							"                \"text\",",
+							"                \"url\"",
+							"            ],",
+							"            \"title\": \"Support\"",
+							"        }",
+							"    }",
+							"",
+							"",
+							"};",
+							"    pm.test(\"Status code is 200\", function () {",
+							"        pm.response.to.have.status(200);",
+							"    });",
+							"    var data  = pm.response.json();",
+							"",
+							"",
+							"    pm.test('Response body matches expected schema', function () {",
+							"        pm.expect(data).to.have.jsonSchema(expectedSchema);",
+							"    });",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://reqres.in/api/register",
+					"protocol": "https",
+					"host": [
+						"reqres",
+						"in"
+					],
+					"path": [
+						"api",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"",
+							"const expectedSchema = {",
+							"    ",
+							"    \"definitions\": {",
+							"        \"Welcome10\": {",
+							"            \"type\": \"object\",",
+							"            \"additionalProperties\": false,",
+							"            \"properties\": {",
+							"                \"token\": {",
+							"                    \"type\": \"string\"",
+							"                }",
+							"            },",
+							"            \"required\": [",
+							"                \"token\"",
+							"            ],",
+							"            \"title\": \"Welcome10\"",
+							"        }",
+							"    }",
+							"",
+							"",
+							"};",
+							"    pm.test(\"Status code is 200\", function () {",
+							"        pm.response.to.have.status(200);",
+							"    });",
+							"    var data  = pm.response.json();",
+							"",
+							"",
+							"    pm.test('Response body matches expected schema', function () {",
+							"        pm.expect(data).to.have.jsonSchema(expectedSchema);",
+							"    });",
+							"",
+							"",
+							"pm.test(\"Body matches string\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"token\");",
+							"});",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email\": \"eve.holt@reqres.in\",\n    \"password\": \"cityslicka\"\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://reqres.in/api/login",
+					"protocol": "https",
+					"host": [
+						"reqres",
+						"in"
+					],
+					"path": [
+						"api",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"",
+							"const expectedSchema = {",
+							"    ",
+							"        \"definitions\": {",
+							"        \"Welcome4\": {",
+							"            \"type\": \"object\",",
+							"            \"additionalProperties\": false,",
+							"            \"properties\": {",
+							"                \"name\": {",
+							"                    \"type\": \"string\"",
+							"                },",
+							"                \"job\": {",
+							"                    \"type\": \"string\"",
+							"                },",
+							"                \"id\": {",
+							"                    \"type\": \"string\",",
+							"                    \"format\": \"integer\"",
+							"                },",
+							"                \"createdAt\": {",
+							"                    \"type\": \"string\",",
+							"                    \"format\": \"date-time\"",
+							"                }",
+							"            },",
+							"            \"required\": [",
+							"                \"createdAt\",",
+							"                \"id\",",
+							"                \"job\",",
+							"                \"name\"",
+							"            ],",
+							"            \"title\": \"Welcome4\"",
+							"        }",
+							"    }",
+							"",
+							"",
+							"};",
+							"    pm.test(\"Status code is 200\", function () {",
+							"        pm.response.to.have.status(201);",
+							"    });",
+							"    var data  = pm.response.json();",
+							"",
+							"",
+							"    pm.test('Response body matches expected schema', function () {",
+							"        pm.expect(data).to.have.jsonSchema(expectedSchema);",
+							"    });",
+							"",
+							"",
+							"pm.test(\"Body matches string\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"createdAt\");",
+							"});",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"morpheus\",\n    \"job\": \"leader\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://reqres.in/api/create",
+					"protocol": "https",
+					"host": [
+						"reqres",
+						"in"
+					],
+					"path": [
+						"api",
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"",
+							"const expectedSchema = {",
+							"    ",
+							"       \"definitions\": {",
+							"        \"Welcome7\": {",
+							"            \"type\": \"object\",",
+							"            \"additionalProperties\": false,",
+							"            \"properties\": {",
+							"                \"name\": {",
+							"                    \"type\": \"string\"",
+							"                },",
+							"                \"job\": {",
+							"                    \"type\": \"string\"",
+							"                },",
+							"                \"updatedAt\": {",
+							"                    \"type\": \"string\",",
+							"                    \"format\": \"date-time\"",
+							"                }",
+							"            },",
+							"            \"required\": [",
+							"                \"job\",",
+							"                \"name\",",
+							"                \"updatedAt\"",
+							"            ],",
+							"            \"title\": \"Welcome7\"",
+							"        }",
+							"    }",
+							"",
+							"};",
+							"    pm.test(\"Status code is 200\", function () {",
+							"        pm.response.to.have.status(200);",
+							"    });",
+							"    var data  = pm.response.json();",
+							"",
+							"",
+							"    pm.test('Response body matches expected schema', function () {",
+							"        pm.expect(data).to.have.jsonSchema(expectedSchema);",
+							"    });",
+							"",
+							"",
+							"pm.test(\"Body matches string\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"updatedAt\");",
+							"});",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"morpheus\",\n    \"job\": \"zion resident\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://reqres.in/api/users/2",
+					"protocol": "https",
+					"host": [
+						"reqres",
+						"in"
+					],
+					"path": [
+						"api",
+						"users",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"",
+							"    pm.test(\"Status code is 200\", function () {",
+							"        pm.response.to.have.status(204);",
+							"    });",
+							"    ",
+							"",
+							"",
+							"",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"morpheus\",\n    \"job\": \"zion resident\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://reqres.in/api/users/3",
+					"protocol": "https",
+					"host": [
+						"reqres",
+						"in"
+					],
+					"path": [
+						"api",
+						"users",
+						"3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

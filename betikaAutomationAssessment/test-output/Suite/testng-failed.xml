@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.betika.utils.SuiteListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="headless" value="false"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.betika.testCases.TestBetPlacement">
+        <methods>
+          <include name="TestBetPlacements"/>
+          <include name="afterMethod"/>
+          <include name="afterTestMethod"/>
+          <include name="setUpDriver"/>
+          <include name="beforeMethodMethod"/>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.betika.testCases.TestBetPlacement -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
